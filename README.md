@@ -62,7 +62,7 @@
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-- 🔗 https://agentify-sbt.vercel.app  
+- 🔗 [Portfolio Link:]("https://agentify-sbt.vercel.app")  
 
 ---
 
@@ -70,6 +70,6 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-- LinkedIn: https://www.linkedin.com/in/syeda-sabahat-shakeel  
+- [LinkedIn:]("https://www.linkedin.com/in/syeda-sabahat-shakeel")
 
 ---
