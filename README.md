@@ -73,5 +73,3 @@
 - LinkedIn: https://www.linkedin.com/in/syeda-sabahat-shakeel  
 
 ---
-
-## 💻 Tech Stack
